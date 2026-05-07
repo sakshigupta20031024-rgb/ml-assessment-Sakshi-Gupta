@@ -46,4 +46,16 @@ To analyse how different types of promotionsacross different store locations, it
 2. Line chart (for seasonal or monthly trend)
 This will help me understand when the sales are at peak for a particular item on a particular store on a particular day/month.
 
-3. 
+3. Grouped Bar (urban vs semi-urban vs rural in relation with sales)
+This will tell us how different locations behave diffrently in the sense of items/sales. This will helps us build separate models for each location
+
+ 4. Scatter plot ( customer footfall vs sales)
+It will helps us understand the cutomer behaviour in each locations, so that we can incorporate it in the model. Does more customers mean mores sales then what promotions should we apply.
+
+(c)
+
+
+# B3 # 
+
+
+
